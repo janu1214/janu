@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is A4F7-B42C
-
- Directory of C:\Users\kumar\Desktop\dev
-
-11/14/2019  09:45 AM    <DIR>          .
-11/14/2019  09:45 AM    <DIR>          ..
-11/14/2019  09:45 AM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  812,352,577,536 bytes free
+lucky
